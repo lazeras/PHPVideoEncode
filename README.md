@@ -1,2 +1,3 @@
-# PHPVideoEncode
-php wrapper to re-encode videos via ffmpeg
+# PHPVideo
+
+PHP video re-encoder via ffmpeg
